@@ -1,0 +1,19 @@
+{
+  "name": "mobile",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "metro-config": "*",
+    "react-native": "*",
+    "expo": "*",
+    "react-native-svg": "*",
+    "react-native-web": "*",
+    "react-native-safe-area-context": "*",
+    "react-native-screens": "*"
+  },
+  "scripts": {
+    "eas-build-pre-install": "cd ../ && node tools/scripts/eas-build-pre-install.mjs . mobile && cp yarn.lock mobile",
+    "eas-build-post-install": "cd ../ && node tools/scripts/eas-build-post-install.mjs . mobile"
+  }
+}
