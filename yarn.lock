@@ -1236,19 +1236,19 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@charitips/embed-react-native@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@charitips/embed-react-native/-/embed-react-native-1.0.0.tgz#72efa5fa3760ba3059282e494138cd876782d949"
-  integrity sha512-K85gyXX3n9Ew0AmGYb2UYm5PnYF8ql6PgvdV5AGRxXKBzjr+CaI4zFlmpxgAZz8KeraCPW415Lb/wlR8CLDfZQ==
+"@charitips/embed-react-native@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@charitips/embed-react-native/-/embed-react-native-1.1.1.tgz#95f616e701afbe11deea1a9af177681c6ece094c"
+  integrity sha512-PHqvP06YpFzhFPLHeICz3jZgbjtybiKIL+uq/hlfqff8ZOprFsXXep3KaVsH5pVoQ3oSxpTIzHatRKXq+oY3ZA==
   dependencies:
-    "@charitips/embed" "^2.13.0"
+    "@charitips/embed" "^2.14.0"
     react-native-safe-area-context "^4.10.4"
     react-native-webview "^13.10.3"
 
-"@charitips/embed@^2.13.0":
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/@charitips/embed/-/embed-2.13.0.tgz#9b28a09fd70a67ae5630ee7391948534468806c1"
-  integrity sha512-1A3JTImuStTkACevg4ru9tR2lHOlBESc8o8x329sr0t2HBc7/w+3JimWfIjEczMZE+p3XOOHdwGWP1Y6kGtnLw==
+"@charitips/embed@^2.14.0":
+  version "2.14.0"
+  resolved "https://registry.yarnpkg.com/@charitips/embed/-/embed-2.14.0.tgz#433618d38bcf35eea76e0138379ef1fe246e5a17"
+  integrity sha512-7kh6CfLjj6QisPtLbSR1+QWoQlxMnizUCHy86ScMVfk27o/5ySQPQCA2LcfNz6SJbh/cxZhVku3i4pZMDNoTzQ==
 
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"

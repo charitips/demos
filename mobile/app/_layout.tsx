@@ -22,9 +22,8 @@ export default function RootLayout() {
   if (!loaded) {
     return null;
   }
-
   return (
-    <CharitipsProvider>
+    <CharitipsProvider baseUrl="https://embed.sandbox.charitips.com">
       <ThemeProvider value={DefaultTheme}>
         <Stack>
           <Stack.Screen

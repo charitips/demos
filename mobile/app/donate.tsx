@@ -23,10 +23,9 @@ export default function DonateScreen() {
         </ThemedText>
       </View>
       <CharitySelectionWidget
-        baseUrl="http://localhost:3000/_sites/embed"
-        publicKey="ppdDYwtZuF9j0JqAgd5pAyCOAZqdLSfjAJD"
+        publicKey="lkHD_vm8gA7OsGQDUat7-rzG2fRco7U_TWr"
         type="charity_and_amount_selection"
-        balance={18}
+        balance={50}
         hideSearch={true}
         onCharitySelected={onCharitySelected}
         onCloseSuccess={onCloseSuccess}
