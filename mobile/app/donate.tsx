@@ -29,6 +29,7 @@ export default function DonateScreen() {
         hideSearch={true}
         onCharitySelected={onCharitySelected}
         onCloseSuccess={onCloseSuccess}
+        locale="en"
       />
     </ScrollView>
   );
