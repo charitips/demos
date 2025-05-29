@@ -9,3 +9,7 @@ Looking for the API documentation ? Check out https://developers.sandbox.chariti
 ## Mobile application
 
 In the `mobile` folder, you can find a really simple cross-platform mobile application demonstrating how to integrate the charity selection widget on mobile.
+
+## Web application
+
+In the `web` folder, you can find a really simple NextJS application demonstrating how to integrate the charity selection widget on the web.
